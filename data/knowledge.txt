@@ -1,0 +1,155 @@
+what is earth:Earth is our planet.
+hi:Hello!
+who is mahatma gandhi:Leader of Indian independence.
+my name:it is chap
+what is problem solving:Finding solutions.
+what is www:World Wide Web is a system of web pages.
+what is your name:I am a self-learning Java chatbot.
+what is github:GitHub is a code hosting platform.
+what is operating system:It manages computer resources.
+what is college:Higher education institute.
+what is health:State of fitness.
+what is discipline:Following rules.
+who is tesla:Nikola Tesla was an inventor.
+what is inheritance:Inheritance allows reuse of code.
+what is queue:A FIFO data structure.
+what is google:Google is a search engine.
+what is business:Activity of trade.
+what is communication:Exchange of information.
+what is usa:USA is a country in North America.
+of java:java is a programming language
+what is mysql:MySQL is a database system.
+what is technology:Application of science.
+what can you do:I can learn and answer questions.
+what is hard disk:It stores data permanently.
+what is facebook:Facebook is a social media platform.
+what is cell:Basic unit of life.
+what is tourism:Travel for enjoyment.
+what is china:China is a country in Asia.
+what is football:A sport.
+what is windows:Windows is an operating system.
+what is food:Nutrition source.
+what is abstraction:Abstraction hides implementation details.
+what is microsoft:Microsoft is a tech company.
+what is 5+7:12
+what is future:Time ahead.
+hello:Hi there!
+what is data structure:A way to organize data.
+what is cryptocurrency:A digital currency.
+what is 100/5:20
+what is sorting:Arranging data in order.
+what is python:Python is a high-level programming language.
+what is sun:Sun is a star.
+what is teamwork:Working together.
+what is linux:Linux is an open-source OS.
+what is compiler:A compiler converts code to machine language.
+who created you:I was created by Aryav Agrawal.
+what is oxygen:Oxygen is essential for life.
+what is yoga:Practice for mind and body.
+what is love:Deep affection.
+qubits:its used in quantum computing
+what is motivation:Driving force.
+who is newton:Isaac Newton discovered gravity.
+what is purpose of life:To grow and learn.
+what is data science:Data science extracts insights from data.
+what is ecosystem:A biological community.
+what is success:Achieving goals.
+what is failure:Not achieving goals.
+what is javascript:JavaScript is used for web interactivity.
+who is abraham lincoln:US president.
+who is messi:Football player.
+what is olympics:International sports event.
+what is history:Study of past events.
+what is leadership:Guiding others.
+what is ram:RAM is temporary memory.
+what is india:India is a country in Asia.
+what is api:API allows communication between software.
+what is amazon:Amazon is an e-commerce company.
+what is happiness:State of well-being.
+what is 10*2:20
+who is virat kohli:Indian cricketer.
+deokayay java:java is a programming language
+what is ip address:It identifies devices on a network.
+what is capital of usa:Washington D.C.
+what is capital of france:Paris.
+what is friendship:Relationship of trust.
+what is democracy:Government by the people.
+what is universe:All of space and matter.
+what is xml:XML is a markup language.
+what is cricket:A sport.
+what is encapsulation:Encapsulation means wrapping data and methods together.
+what is 2+2:4
+what is fifa:Football organization.
+what is creativity:Ability to create ideas.
+what is blockchain:A distributed ledger technology.
+what is html:HTML is used to create web pages.
+what is stack:A LIFO data structure.
+how are you:I'm doing great!
+what is polymorphism:Polymorphism allows multiple forms of a method.
+what is photosynthesis:Plants convert sunlight into energy.
+what is c++:C++ is an object-oriented programming language.
+what is css:CSS is used to style web pages.
+what is school:Place for education.
+what is searching:Finding an element.
+what is education:Process of learning.
+what is music:Art of sound.
+what is instagram:Instagram is a photo-sharing app.
+what is algorithm:A step-by-step solution to a problem.
+what is oops:Object-Oriented Programming is a programming paradigm.
+what is travel:Moving from one place to another.
+what is ai:Artificial Intelligence is simulation of human intelligence.
+what is solar system:Group of planets around sun.
+what is movie:Visual storytelling.
+what is banking:Financial system.
+what is water importance:Essential for life.
+what is capital of japan:Tokyo.
+what is time management:Managing time efficiently.
+what is recursion:A function calling itself.
+what is result:Outcome of exam.
+does quantum computing use:it uses qubits
+what is gravity:A force that attracts objects.
+what is time:Measurement of events.
+what is dance:Movement with rhythm.
+what is apple:Apple is a technology company.
+what is sql:SQL is used to manage databases.
+what is array:A collection of elements.
+what is dream:Aspiration.
+what is cloud computing:It provides services over the internet.
+what is moon:Moon is Earth's satellite.
+what is rom:ROM is permanent memory.
+what is database:A database stores structured data.
+what is machine learning:Machine learning enables systems to learn from data.
+what is exercise:Physical activity.
+what is git:Git is a version control system.
+what is economy:System of production and trade.
+what is teacher:Person who teaches.
+what is life:Existence of living beings.
+what is water:H2O.
+who is nelson mandela:South African leader.
+what is speed:Distance per unit time.
+what is interpreter:It executes code line by line.
+what is galaxy:A system of stars.
+what is marketing:Promoting products.
+what is currency:Medium of exchange.
+what is linked list:A dynamic data structure.
+what is json:JSON is a data format.
+what is game:Activity for entertainment.
+what is innovation:New ideas.
+temperature today:34
+what is java:Java is a programming language.
+what is deep learning:Deep learning uses neural networks.
+who is einstein:Albert Einstein was a physicist.
+what is energy:Capacity to do work.
+who is ronaldo:Football player.
+what is exam:Test of knowledge.
+bye:Goodbye!
+what is capital of india:New Delhi.
+what is constitution:Supreme law of a country.
+our pm name:narendra modi
+what is student:Person who learns.
+what is macos:macOS is Apple's OS.
+what is cpu:CPU is the brain of the computer.
+what is inflation:Increase in prices.
+what is goal:Target to achieve.
+what is carbon dioxide:Gas used in photosynthesis.
+what is internet:The internet is a global network.

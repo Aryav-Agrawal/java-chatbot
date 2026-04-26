@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>COGNIA AI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="app">
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <button onclick="createNewChat()">+ New Chat</button>
+        <div id="chatList"></div>
+    </div>
+
+    <!-- Chat Area -->
+    <div class="chat-container">
+
+        <!-- Watermark -->
+        <div class="watermark">COGNIA</div>
+
+        <div class="header">
+            COGNIA
+        </div>
+
+        <div id="chatbox"></div>
+
+        <div class="input-area">
+            <input
+                id="messageInput"
+                type="text"
+                placeholder="Ask COGNIA..."
+                onkeydown="handleKey(event)"
+                autofocus
+            />
+
+            <button onclick="sendMessage()">Send</button>
+        </div>
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,113 @@
+define:what is
+explain:what is
+describe:what is
+meaning:what is
+definition:what is
+tell me about:what is
+information about:what is
+give information about:what is
+details about:what is
+what do you know about:what is
+what can you tell me about:what is
+introduce:what is
+overview of:what is
+
+who invented:who created
+who made:who created
+who developed:who created
+who designed:who created
+creator:who created
+inventor:who created
+founder:who created
+
+create:make
+build:make
+develop:make
+produce:make
+construct:make
+generate:make
+
+hi:hello
+hey:hello
+hey there:hello
+good morning:hello
+good afternoon:hello
+good evening:hello
+greetings:hello
+yo:hello
+sup:hello
+
+bye:goodbye
+see you:goodbye
+see ya:goodbye
+later:goodbye
+talk later:goodbye
+good night:goodbye
+farewell:goodbye
+catch you later:goodbye
+
+thanks:thank you
+thx:thank you
+ty:thank you
+appreciate it:thank you
+many thanks:thank you
+
+ok:okay
+alright:okay
+fine:okay
+sure:okay
+
+error:problem
+issue:problem
+bug:problem
+fault:problem
+
+program:software
+application:software
+app:software
+computer program:software
+computer application:software
+
+language:programming language
+coding language:programming language
+development language:programming language
+
+ai:artificial intelligence
+ml:machine learning
+dl:deep learning
+
+internet:web
+website:web
+webpage:web
+
+university:college
+institute:college
+academy:college
+
+teacher:professor
+lecturer:professor
+instructor:professor
+
+student:learner
+pupil:learner
+
+car:vehicle
+automobile:vehicle
+
+bike:motorcycle
+motorbike:motorcycle
+
+phone:mobile
+cellphone:mobile
+smartphone:mobile
+
+usa:united states
+america:united states
+
+uk:united kingdom
+britain:united kingdom
+england:united kingdom
+
+math:mathematics
+stats:statistics
+probability theory:statistics
