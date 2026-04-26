@@ -38,7 +38,7 @@ The user can then provide the answer, and the chatbot stores it permanently in `
 **User:** Apple, banana, mango, guava, etc.  
 **Bot:** Thanks! I learned something new.
 
-java-chatbot/image.png
+image.png
 
 ---
 
