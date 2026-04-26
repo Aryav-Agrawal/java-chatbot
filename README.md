@@ -38,7 +38,7 @@ The user can then provide the answer, and the chatbot stores it permanently in `
 **User:** Apple, banana, mango, guava, etc.  
 **Bot:** Thanks! I learned something new.
 
-image.png
+java-chatbot/image.png
 
 ---
 
@@ -51,7 +51,7 @@ Cognia supports multiple independent chat windows like ChatGPT.
 - Separate message histories
 - Better conversation organization
 
-multi-chat.png
+java-chatbot/multi-chat.png
 
 ---
 
